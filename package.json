@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "> **But… what is a Hackathon?**\r - Hacking is **creative problem solving**\r - A hackathon is any event of any duration where people come together to **solve problems**\r - Don’t expect to have actually solved a problem by the end of the hackathon. **Real life problems are hard!** Think of the hackathon as a pit-stop on a long journey to solve problems or as a training session to practice your **problem solving skills**",
+  "main": "Guess.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
